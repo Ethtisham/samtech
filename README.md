@@ -1,2 +1,4 @@
 # samtech
-This is my first code.Author: Ehtisham
+This is my first code.
+<br>
+Author: Ehtisham
